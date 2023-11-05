@@ -1,0 +1,20 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        stylesheets:
+#          'NeosRulez.Neos.FontAwesomeSelectBoxEditor.Fa5':
+#            resource: '${"resource://NeosRulez.Neos.FontAwesomeSelectBoxEditor/Public/Assets/fontawesome-free-5.15.4-web/css/all.min.css"}'
+#          'NeosRulez.Neos.FontAwesomeSelectBoxEditor.Fa6':
+#            resource: '${"resource://NeosRulez.Neos.FontAwesomeSelectBoxEditor/Public/Assets/fontawesome-free-6.4.2-web/css/all.min.css"}'
+          'NeosRulez.Neos.FontAwesomeSelectBoxEditor':
+            resource: '${"resource://NeosRulez.Neos.FontAwesomeSelectBoxEditor/Public/Plugin.css"}'
+        javascript:
+          'NeosRulez.Neos.FontAwesomeSelectBoxEditor':
+            resource: '${"resource://NeosRulez.Neos.FontAwesomeSelectBoxEditor/Public/Plugin.js"}'
+
+#NeosRulez:
+#  Bootstrap:
+#    fontawesome:
+#      publicResourcePath: 'resource://NeosRulez.Neos.FontAwesomeSelectBoxEditor/Public/Assets'
+#      version: '6.4.2'

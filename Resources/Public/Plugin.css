@@ -1,0 +1,17 @@
+.styles__button___3Vugn {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px !important;
+  gap: 10px;
+  max-height: 40px;
+}
+.styles__button___3Vugn i {
+  width: 30px;
+  text-align: center;
+}
+.styles__button___3Vugn:hover {
+  background: #00adee;
+}
+

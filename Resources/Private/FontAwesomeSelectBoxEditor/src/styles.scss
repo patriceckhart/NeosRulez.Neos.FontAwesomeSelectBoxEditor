@@ -1,0 +1,4 @@
+.button { cursor: pointer; display:flex; flex-direction: row; align-items: center; padding:5px 10px !important; gap:10px; max-height:40px;
+	i { width:30px; text-align: center; }
+	&:hover { background: #00adee; }
+}
